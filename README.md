@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0027-remove-element) |
 ## Two Pointers
 |  |
 | ------- |
 | [0018-4sum](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0027-remove-element) |
 ## Sorting
 |  |
 | ------- |
