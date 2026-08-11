@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
