@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1748-sum-of-unique-elements](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
+| [1929-concatenation-of-array](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2418-sort-the-people](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [3637-trionic-array-i](https://github.com/viraj-9/LeetCode-Solutions/tree/master/3637-trionic-array-i) |
 | [3731-find-missing-elements](https://github.com/viraj-9/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
