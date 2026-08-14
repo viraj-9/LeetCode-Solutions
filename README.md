@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0260-single-number-iii) |
+| [0349-intersection-of-two-arrays](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 ## Sorting
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2418-sort-the-people](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2418-sort-the-people) |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2418-sort-the-people](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2418-sort-the-people) |
@@ -89,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Simulation
 |  |
 | ------- |
