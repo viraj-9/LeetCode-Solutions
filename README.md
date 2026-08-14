@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/viraj-9/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0260-single-number-iii) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |
