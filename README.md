@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Simulation
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Counting Sort
 |  |
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
