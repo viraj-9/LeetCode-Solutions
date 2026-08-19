@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Matrix
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
