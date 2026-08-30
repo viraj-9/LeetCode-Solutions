@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1672-richest-customer-wealth](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Math
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/viraj-9/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/viraj-9/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
@@ -189,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
