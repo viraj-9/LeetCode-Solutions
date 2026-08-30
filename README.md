@@ -202,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
