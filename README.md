@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0056-merge-intervals](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0184-department-highest-salary](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0184-department-highest-salary) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
