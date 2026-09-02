@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
