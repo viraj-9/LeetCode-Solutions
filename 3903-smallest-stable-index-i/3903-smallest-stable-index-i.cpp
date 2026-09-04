@@ -17,12 +17,11 @@ public:
                     mini=nums[t];
                 }
             }
-            result = min(result, maxi-mini);
             // if(mini==maxi){
             //     stable=i;
             //     break;
             // }
-            if(result<=k){
+            if(maxi-mini<=k){
                 stable = i;
                 break;
             }
