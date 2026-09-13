@@ -3,37 +3,41 @@ public:
     bool validMountainArray(vector<int>& arr) { 
         int n = arr.size();
         int p=1;
-        if(is_sorted(arr.begin(), arr.end()) || is_sorted(arr.begin(), arr.end(), greater<int>())){
-            return false;
-        }
         if(n<=2){
             return false;
         }
-
-        while(p<n){
-            if(arr[p]>arr[p-1]){
-                p++;
-            }else if(arr[p]==arr[p-1]){
+        int count=0;
+        bool result = false;
+        for(int i=1; i<n; i++){
+            if(arr[i]>arr[i-1]){
+                result = true;
+                count++;
+            }else if(arr[i]==arr[i-1]){
                 return false;
             }else{
+                p=i;
                 break;
             }
         }
 
-        int q;
-        if(p==n-1){
-            q=p;
-        }else q=p+1;
-        cout<<q;
-
-        while(q<n){
-            if(arr[q]<arr[q-1]){
-                q++;
-            }else{
+        cout<<p;
+        if(count == 0){
+            p=0;
+        }
+        for(int i=p+1; i<n; i++){
+            if(arr[i]<arr[i-1]){
+                result = true;
+                count++;
+            }else if(arr[i]==arr[i-1]){
                 return false;
+            }else{
+                result=false;
+                break;
             }
         }
-        cout<<p;
-        return true;
+        if(count==n-1){
+            result = false;
+        }
+        return result;
     }
 };
