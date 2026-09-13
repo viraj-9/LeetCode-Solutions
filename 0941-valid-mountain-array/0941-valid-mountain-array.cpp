@@ -2,42 +2,27 @@ class Solution {
 public:
     bool validMountainArray(vector<int>& arr) { 
         int n = arr.size();
-        int p=1;
+        bool wentup = false;
+        bool wentdown = false;
         if(n<=2){
             return false;
         }
-        int count=0;
-        bool result = false;
+        
         for(int i=1; i<n; i++){
             if(arr[i]>arr[i-1]){
-                result = true;
-                count++;
-            }else if(arr[i]==arr[i-1]){
-                return false;
+                if(wentdown==true) return false;
+                wentup = true;
+            }else if(arr[i]<arr[i-1]){
+                wentdown = true;
             }else{
-                p=i;
+                wentup = false;
                 break;
             }
         }
 
-        cout<<p;
-        if(count == 0){
-            p=0;
+        if(wentup == true && wentdown == true){
+            return true;
         }
-        for(int i=p+1; i<n; i++){
-            if(arr[i]<arr[i-1]){
-                result = true;
-                count++;
-            }else if(arr[i]==arr[i-1]){
-                return false;
-            }else{
-                result=false;
-                break;
-            }
-        }
-        if(count==n-1){
-            result = false;
-        }
-        return result;
+        return false;
     }
 };
