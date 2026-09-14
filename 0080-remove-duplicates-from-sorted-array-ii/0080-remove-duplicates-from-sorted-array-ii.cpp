@@ -1,7 +1,7 @@
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-        map<int, int> mp{{0, 0}};
+        unordered_map<int, int> mp{{0, 0}};
         int n=nums.size();
         // if(nums.size()<=2) return nums.size();
         for(int i = 0; i < n; i++){
