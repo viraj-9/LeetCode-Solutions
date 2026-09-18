@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0184-department-highest-salary) |
 | [0627-swap-sex-of-employees](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0627-swap-sex-of-employees) |
