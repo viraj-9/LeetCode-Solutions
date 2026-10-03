@@ -14,6 +14,7 @@ public:
         int low = 1;
         int high = max;
 
+        if(n > threshold) return n;
         while(low <= high){
             int mid = (low + high) / 2;
             if(sum(nums, threshold, mid) <= threshold){
