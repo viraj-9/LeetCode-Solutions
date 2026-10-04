@@ -21,7 +21,7 @@ public:
         // if(k==1) return m;
         if((long long)m*k > n) return -1;
         
-        int low = 1;
+        int low = *min_element(bloomDay.begin(), bloomDay.end());
         int high = *max_element(bloomDay.begin(), bloomDay.end());
 
         while(low <= high){
