@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0645-set-mismatch) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3903-smallest-stable-index-i](https://github.com/viraj-9/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0410-split-array-largest-sum](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -259,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Union-Find
 |  |
