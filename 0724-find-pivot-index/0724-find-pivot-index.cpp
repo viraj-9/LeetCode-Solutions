@@ -4,18 +4,22 @@ public:
         int n = nums.size();
         
         if(n == 1) return 0;
-        for(int i = 0; i < n; i++){
+        int mid = 0;
+        while(mid < n){
+            
             int sumleft = 0;
             int sumright = 0;
-            for(int j = 0; j < i; j++){
-                sumleft += nums[j];
+            for(int i = 0; i<mid; i++){
+                sumleft += nums[i];
             }
-            for(int k = i+1; k < n; k++){
-                sumright += nums[k];
+            for(int j = mid + 1; j<n; j++){
+                sumright += nums[j];
             }
-            if(sumleft == sumright) return i;
-        }
 
+            // if(mid == 0 && sumleft == sumright) return 0;
+            if(sumleft == sumright) return mid;
+            else mid++;
+        }
         return -1;
     }
 };
