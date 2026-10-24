@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/viraj-9/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/viraj-9/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/viraj-9/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
+| [3978-unique-middle-element](https://github.com/viraj-9/LeetCode-Solutions/tree/master/3978-unique-middle-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
+| [3978-unique-middle-element](https://github.com/viraj-9/LeetCode-Solutions/tree/master/3978-unique-middle-element) |
 ## Binary Search
 |  |
 | ------- |
