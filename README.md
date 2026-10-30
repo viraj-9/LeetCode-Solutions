@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [0766-toeplitz-matrix](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0896-monotonic-array) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0766-toeplitz-matrix](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [1672-richest-customer-wealth](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Counting Sort
 |  |
