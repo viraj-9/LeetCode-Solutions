@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -403,4 +404,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
