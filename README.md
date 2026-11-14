@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0223-rectangle-area](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0326-power-of-three) |
@@ -437,4 +438,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
