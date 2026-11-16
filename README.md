@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/viraj-9/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3151-special-array-i](https://github.com/viraj-9/LeetCode-Solutions/tree/master/3151-special-array-i) |
+| [3467-transform-array-by-parity](https://github.com/viraj-9/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/viraj-9/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3637-trionic-array-i](https://github.com/viraj-9/LeetCode-Solutions/tree/master/3637-trionic-array-i) |
 | [3731-find-missing-elements](https://github.com/viraj-9/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2418-sort-the-people) |
+| [3467-transform-array-by-parity](https://github.com/viraj-9/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/viraj-9/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2404-most-frequent-even-element](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
+| [3467-transform-array-by-parity](https://github.com/viraj-9/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3978-unique-middle-element](https://github.com/viraj-9/LeetCode-Solutions/tree/master/3978-unique-middle-element) |
 ## Binary Search
 |  |
