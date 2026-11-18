@@ -20,6 +20,7 @@ public:
         int num = 1;
         int i = 0;
 
+        cout<<size<<" ";
         while(num <= maxi){
             st.push(num);
             result.push_back("Push");
