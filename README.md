@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2239-find-closest-number-to-zero](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2239-find-closest-number-to-zero) |
 | [2404-most-frequent-even-element](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2418-sort-the-people) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2109-adding-spaces-to-a-string](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2109-adding-spaces-to-a-string](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [3110-score-of-a-string](https://github.com/viraj-9/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2109-adding-spaces-to-a-string](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2679-sum-in-a-matrix](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
 ## Matrix
