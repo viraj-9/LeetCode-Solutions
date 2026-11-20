@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2239-find-closest-number-to-zero](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2239-find-closest-number-to-zero) |
 | [2404-most-frequent-even-element](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2418-sort-the-people) |
+| [2679-sum-in-a-matrix](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/viraj-9/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3151-special-array-i](https://github.com/viraj-9/LeetCode-Solutions/tree/master/3151-special-array-i) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2418-sort-the-people) |
+| [2679-sum-in-a-matrix](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [3467-transform-array-by-parity](https://github.com/viraj-9/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/viraj-9/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2679-sum-in-a-matrix](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
 ## Matrix
 |  |
 | ------- |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
+| [2679-sum-in-a-matrix](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
 ## Counting Sort
 |  |
 | ------- |
@@ -339,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/viraj-9/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+| [2679-sum-in-a-matrix](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
 ## Quickselect
 |  |
 | ------- |
