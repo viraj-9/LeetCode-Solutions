@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2679-sum-in-a-matrix](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2788-split-strings-by-separator](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2788-split-strings-by-separator) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/viraj-9/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3151-special-array-i](https://github.com/viraj-9/LeetCode-Solutions/tree/master/3151-special-array-i) |
 | [3467-transform-array-by-parity](https://github.com/viraj-9/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2390-removing-stars-from-a-string](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2418-sort-the-people) |
+| [2788-split-strings-by-separator](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2788-split-strings-by-separator) |
 | [3110-score-of-a-string](https://github.com/viraj-9/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
 ## Counting
 |  |
