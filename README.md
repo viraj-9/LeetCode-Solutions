@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2679-sum-in-a-matrix](https://github.com/viraj-9/LeetCode-Solutions/tree/master/2679-sum-in-a-matrix) |
 | [3467-transform-array-by-parity](https://github.com/viraj-9/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
+| [3536-maximum-product-of-two-digits](https://github.com/viraj-9/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/viraj-9/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/viraj-9/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/viraj-9/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/viraj-9/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/viraj-9/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/viraj-9/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/viraj-9/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
